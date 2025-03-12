@@ -7,7 +7,7 @@
     <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Kenne400k.PBOT-MIRAIV3">
     <img alt="size" src="https://img.shields.io/badge/license-GPL--3.0-green?style=flat-square&color=brightgreen">
 </p>
-<a href="https://github.com/Kenne400k/PBOT-MIRAIV3.git"><img src="https://i.imgur.com/sxW5AWa.png" alt="Logo"></a>
+<a href="https://github.com/uanank209/PBOT-MIRAIV3.git"><img src="https://i.imgur.com/sxW5AWa.png" alt="Logo"></a>
 <p align="center">
     A Simple MiraiBot for starting a Messenger Chatbot.
     <br />
