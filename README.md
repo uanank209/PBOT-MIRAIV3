@@ -39,7 +39,7 @@ Tải về và cài đặt:
 
 #### 2️⃣ Clone source bot
 ```sh
-git clone https://github.com/Kenne400k/PBOT-MIRAIV3.git
+git clone https://github.com/uanank209/PBOT-MIRAIV3.git
 ```
 
 #### 3️⃣ Cài đặt thư viện cần thiết
